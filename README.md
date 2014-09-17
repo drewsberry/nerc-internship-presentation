@@ -1,4 +1,4 @@
 nerc-internship
 ===============
 
-The presentation and report for my NERC funded Earth Sciences internship, 2014
+The presentation for my NERC funded Earth Sciences internship, 2014
